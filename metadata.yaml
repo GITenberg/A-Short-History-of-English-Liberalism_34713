@@ -1,0 +1,29 @@
+_repo: A-Short-History-of-English-Liberalism_34713
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blease, W. Lyon (Walter Lyon)
+    alias: Blease, Walter Lyon
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '37185'
+    url: http://www.gutenberg.org/2009/agents/37185
+description: ''
+gutenberg_issued: '2010-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government'
+- !lcsh 'Liberal Party (Great Britain)'
+- !lcsh 'Liberalism'
+- !lcc 'DA'
+title: A Short History of English Liberalism
+url: http://www.gutenberg.org/ebooks/34713
